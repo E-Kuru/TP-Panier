@@ -1,0 +1,26 @@
+[
+    {
+        "idProduit": 1,
+        "imageProduit" : "img/bob.jpg",
+        "nomProduit" : "Bob Canabis noir",
+        "prixProduit" : "14€99"
+    },
+    {
+        "idProduit": 2,
+        "imageProduit" : "img/bob2.jpg",
+        "nomProduit" : "Lot Bob Alienware blanc et noir",
+        "prixProduit" : "29€99"
+    },
+    {
+        "idProduit": 3,
+        "imageProduit" : "img/bob3.jpg",
+        "nomProduit" : "Bob Canabis Urban Street Mode",
+        "prixProduit" : "23€99"
+    },
+    {
+        "idProduit": 4,
+        "imageProduit" : "img/bob4.jpg",
+        "nomProduit" : "Bob Japanes Style",
+        "prixProduit" : "18€99"
+    }
+]
